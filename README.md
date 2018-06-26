@@ -8,6 +8,8 @@ Developed by [Alex Reyes][1].
 
 [1]: https://www.alexreyes.xyz
 
+<img src="https://i.imgur.com/ZIadG5o.png" width="400"/> <img src="https://i.imgur.com/CyCfVdh.png" width="400"/>
+
 Download
 ---------
 Head over to the [releases page](https://github.com/reyesalex/Android-Messages-Desktop-UNOFFICIAL/releases) to download the latest release for your OS.
