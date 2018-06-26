@@ -1,0 +1,9 @@
+version: 0.0.1
+files:
+  - url: MessagesDesktop-Setup-0.0.1.exe
+    sha512: oWYvv5NazJY3hVSThMPyv9CQhusP9gQSafwWomIoWEAh4+vD3QPbcXj6jjK1vbUtwVeemFSwde37UEpBKaBbzw==
+    size: 36066099
+path: MessagesDesktop-Setup-0.0.1.exe
+sha512: oWYvv5NazJY3hVSThMPyv9CQhusP9gQSafwWomIoWEAh4+vD3QPbcXj6jjK1vbUtwVeemFSwde37UEpBKaBbzw==
+sha2: 4d4710781875deb91b248bf583012c9d9f63f46dff81b58a25462584ee68f1d5
+releaseDate: '2018-06-26T03:12:18.270Z'

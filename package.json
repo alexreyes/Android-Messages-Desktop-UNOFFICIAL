@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "Android Messages Unofficial Desktop App",
   "author": "Alex Reyes <reyesruizalex@gmail.com>",
-  "main": "./app/index.js",
+  "main": "main.js",
   "scripts": {
     "postinstall": "install-app-deps",
     "start": "npm install && electron ./app",
