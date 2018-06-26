@@ -19,7 +19,6 @@ OS Support
 
 * Windows 10 or later
 * Mac OS X 10.9.0 or later
-* Ubuntu 14.04 or later
 
 Issues
 -------
