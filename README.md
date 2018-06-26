@@ -10,7 +10,7 @@ Developed by [Alex Reyes][1].
 
 Download
 ---------
-Head over to our website https://github.com/reyesalex/Android-Messages-Desktop-UNOFFICIAL/releases to download the latest release for your OS.
+Head over to the [releases page] (https://github.com/reyesalex/Android-Messages-Desktop-UNOFFICIAL/releases) to download the latest release for your OS.
 
 OS Support
 ------------
