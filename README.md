@@ -1,11 +1,11 @@
 # Android Messages Unofficial Desktop App
 
-Run "Android Messages" as a standalone desktop app.  Never again will you have to go through a bunch of tabs to text a friend, or go more out of your way than your friends on Mac/iOS to open your messages.
+Run the "[Android Messages][2]" web app as a standalone desktop app.  Never again will you have to go through a bunch of tabs to text a friend, or go more out of your way than your friends on Mac/iOS to open your messages.
 
 Developed by [Alex Reyes][1].
 
 [1]: https://www.alexreyes.xyz
-
+[2]: https://messages.android.com/
 Download
 ---------
 Head over to our website https://github.com/reyesalex/Android-Messages-Desktop-UNOFFICIAL/releases to download the latest release for your OS.
